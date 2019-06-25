@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "ebirder",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Filters our species already on your life list",
+    "description": "The description of the application"
+  }
+}
